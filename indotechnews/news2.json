@@ -48,5 +48,17 @@
       "posted": "2026-03-26",
       "posted_by": "technewsindonesia"
     },
-  }
+    {
+      "id": 13,
+      "name": "LPS dan BSSN Perkuat Kolaborasi Strategis Jaga Ketahanan Siber Sektor Keuangan",
+      "topics": "tech, cyber, kerjasama, international, os",
+      "descriptions": "Lembaga Penjamin Simpanan (LPS) dan Badan Siber dan Sandi Negara (BSSN) memperkuat kolaborasi strategis melalui penandatanganan Nota Kesepahaman untuk menjaga ketahanan dan keamanan siber, khususnya dalam mendukung stabilitas sistem keuangan nasional. Kerja sama ini mencakup pengamanan core system baru, integrasi monitoring, hingga pengembangan SDM siber.",
+      "artikel": "Lembaga Penjamin Simpanan (LPS) terus berkomitmen untuk senantiasa menjaga ketahanan dan keamanan sistem teknologi dan informasinya. Terkini, LPS menggandeng Badan Siber dan Sandi Negara (BSSN) dan kembali menjalin kerja sama dalam bentuk Penandatanganan Nota Kesepahaman (NK) yang berlangsung di Jakarta pada 10 Maret 2026. Acara penandatanganan ini dihadiri oleh jajaran pimpinan kedua lembaga dan menjadi simbol komitmen bersama dalam menghadapi meningkatnya ancaman siber terhadap sektor keuangan nasional.\n\nPenandatanganan ini merupakan perpanjangan dari perjanjian sebelumnya yang telah terjalin antara LPS dan BSSN. Sebelumnya, kedua lembaga telah bekerja sama secara apik dalam berbagai inisiatif, termasuk kerja sama perlindungan informasi dan transaksi elektronik pada tahun 2021, serta kerja sama dalam memastikan ketahanan siber sektor keuangan melalui peningkatan kapasitas sumber daya manusia dan pertukaran informasi ancaman siber.\n\nKerja sama strategis ini mencakup empat pilar utama: pertama, pengamanan core system baru LPS yang sedang dalam proses implementasi; kedua, integrasi sistem monitoring ancaman siber antara LPS dan BSSN; ketiga, pengembangan kompetensi SDM siber melalui program pelatihan dan sertifikasi bersama; dan keempat, penyusunan prosedur respons insiden siber yang terkoordinasi.\n\nKepala Eksekutif LPS menjelskan bahwa kolaborasi ini menjadi sangat krusial mengingat sektor keuangan adalah salah satu target utama serangan siber. Data dari BSSN menunjukkan bahwa serangan siber terhadap sektor keuangan meningkat sebesar 45 persen sepanjang tahun 2025 dibandingkan tahun sebelumnya. Oleh karena itu, penguatan kolaborasi ini menjadi keniscayaan.\n\nSementara itu, Deputi Bidang Keamanan Siber dan Sandi Perekonomian BSSN menegaskan bahwa pihaknya akan memberikan dukungan penuh dalam bentuk rekomendasi keamanan, asesmen kerentanan, hingga pendampingan teknis bagi LPS. BSSN juga akan mengintegrasikan sistem deteksi ancaman LPS dengan sistem nasional yang dimiliki BSSN untuk mempercepat deteksi dan respons terhadap potensi serangan.\n\nNota kesepahaman ini berlaku untuk jangka waktu tiga tahun dan akan dievaluasi secara berkala setiap enam bulan untuk memastikan implementasi berjalan efektif. Kedua lembaga juga sepakat untuk membentuk tim kerja bersama yang akan bertemu minimal sekali sebulan untuk membahas perkembangan dan tantangan dalam implementasi kerja sama ini.\n\nDengan adanya kolaborasi yang lebih erat ini, diharapkan ketahanan siber LPS semakin matang dan dapat memberikan kontribusi nyata bagi stabilitas sistem keuangan nasional. LPS juga berkomitmen untuk terus meningkatkan standar keamanan sibernya sejalan dengan perkembangan teknologi dan ancaman yang semakin kompleks di masa depan.",
+      "image": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg",
+      "sumber": "LPS.go.id",
+      "sumber_link": "https://www.lps.go.id/berita/detail/lps-dan-bssn-perkuat-kolaborasi-strategis",
+      "posted": "2026-03-10",
+      "posted_by": "technewsindonesia"
+    }
   ]
+}
