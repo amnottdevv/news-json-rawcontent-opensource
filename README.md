@@ -46,3 +46,20 @@ Contoh JSON:
     }
   ]
 }
+```
+use : 
+```json
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news1.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news2.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news3.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news4.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news5.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news6.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news7.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news8.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indofinansial/news1.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indofinansial/news2.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/idnews/news1.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/phonenewsindonesia/news1.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/phonenewsindonesia/news2.json"
+```
