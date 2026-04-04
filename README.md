@@ -13,9 +13,19 @@ JSON adalah format data terbuka yang ringan dan mudah dibaca oleh manusia maupun
 Project ini dibuat untuk:
 - Developer web / frontend
 - Project portfolio
-- Web berita sederhana (tanpa backend)
+- Web berita 
 - Testing API / UI
-
+## start with
+ayo coba gunakan raw github untuk keperluan project anda gratis! 
+dengan total berita yang tersedia adalah
+138 berita mencakup
+- handphone
+- ai
+- politik ringan
+- film
+- busana
+- tech
+- project buatan anak bangsa
 ---
 
 ## 🚀 Features
