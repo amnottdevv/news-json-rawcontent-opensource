@@ -75,8 +75,8 @@ use :
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/gamenewsindonesia/news1.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/gamenewsindonesia/news2.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news1.json",
-    "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news2.json"
-
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news2.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/filmnewsindonesia/news1.json"
 ```
 atau kamu bisa buka di 
 source.json
