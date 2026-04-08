@@ -31,6 +31,14 @@ dengan total berita yang tersedia adalah
 - programming
 - finansial
 - sports
+- ai
+- kasus
+- edukasi
+- peringatan
+- esport
+- game
+- international news
+- music
 ---
 
 ## 🚀 Features
