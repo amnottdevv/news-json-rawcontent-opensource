@@ -1,4 +1,6 @@
 # 🇮🇩 Indonesia Tech News JSON (Open Source)
+<img width="1200" height="1024" alt="IDnewsAPI logo design" src="https://github.com/user-attachments/assets/cc84f21e-8c35-4539-8c3a-8192bcd5ae49" />
+
 
 > 🚀 Free Indonesian News Dataset in JSON Format — No Backend, Ready to Use
 
