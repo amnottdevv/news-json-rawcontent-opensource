@@ -29,6 +29,7 @@ File berbentuk **array of objects** tanpa wrapper tambahan.
     "score": 115
   }
 ]
+```
 Field Specification
 Field	Tipe	Deskripsi
 id	integer	Unique identifier konten (primary key).
@@ -43,3 +44,4 @@ async function fetchTrendingScores() {
     return data;
 }
 ```
+use : ```https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/random_trending/trending.json```
