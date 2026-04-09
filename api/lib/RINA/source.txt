@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/RINA/rating_ID_news_api.json
