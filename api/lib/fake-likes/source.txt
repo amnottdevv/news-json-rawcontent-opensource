@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-1.json
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-2.json
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-3.json
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-4.json
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-5.json
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-6.json
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-7.json
+https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/api/lib/fake-likes/fakelikes-level-8.json
