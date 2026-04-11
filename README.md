@@ -182,7 +182,14 @@ https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/mai
 https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/main/sportnewsID/news2.json
 https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/main/sportnewsID/news3.json
 ```
+### Kriminal
 
+```
+  https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news1.json
+  https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news2.json
+  https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news3.json
+  https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news4.json
+```
 ---
 
 # 📁 Alternatif
