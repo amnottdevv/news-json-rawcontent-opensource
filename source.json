@@ -1,5 +1,5 @@
 {
-  source [
+  [
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news1.json",
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news2.json",
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/indotechnews/news3.json",
@@ -21,9 +21,15 @@
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news2.json",
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news3.json",
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news4.json",
+       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news4.json"
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news1.json",
        "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news2.json",
-       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news3.json" 
+       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news3.json" ,
+       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news4.json",
+       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news1.json"
+       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news2.json"
+       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news3.json"
+       "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/kriminalindonesia/news4.json"
   
    ]
 }
